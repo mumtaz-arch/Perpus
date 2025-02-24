@@ -1,10 +1,10 @@
 #Dasbooard Perpustakaan Digital Menggunakan SB-admin
 
 Login User :
-a. admin
+1. admin
     username : admin
     password : admin
-b. peminjam
+2. peminjam
     username : user
     password : user
 # Perpus
